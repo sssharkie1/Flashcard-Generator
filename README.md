@@ -8,7 +8,7 @@ At the prompt, select, "Yes-please" to play the game.  Otherwise it will not exe
 
 There are questions that require a one word answer.  There are others that require the user to fill in the blank.  
 
-SPELLING AND CAPITOLIZATION MATTER!!!!
+SPELLING AND CAPITALIZATION MATTER!!!!
 
 At the end of the round, a final score is displayed.  
 
