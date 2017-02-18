@@ -1,0 +1,10 @@
+{"front":"First Name of the artist that painted The Last Supper? Hint: Last name was de Vinci","back":"Leonardo","type":"basic"};
+{"front":"Last name of the artist that created the sculpture The Thinker","back":"Rodin","type":"basic"};
+{"front":"What color do you get when mixing yellow and blue?","back":"green","type":"basic"};
+{"front":"The Japanease art of paper folding is called?","back":"Origami","type":"basic"};
+{"front":"Last name of artist that started the impressionist movement.  Hint: First name is Claude.","back":"Monet","type":"basic"};
+{"text":"French post-impressionist Vincent Van Gogh painted \"The Starry Night\". ","cloze":"Vincent","clozeDeleted":"French post-impressionist _____ Van Gogh painted \"The Starry Night\". ","type":"cloze"};
+{"text":"Salvadore Dali was a surrealist painter that painted \"The Persistence of Memory\" in 1931.","cloze":"Dali","clozeDeleted":"Salvadore _____ was a surrealist painter that painted \"The Persistence of Memory\" in 1931.","type":"cloze"};
+{"text":"Rembrandt painted the famous Dutch Golden Age painting \"The Night Watch\" in 1642.  ","cloze":"Rembrandt","clozeDeleted":"_____ painted the famous Dutch Golden Age painting \"The Night Watch\" in 1642.  ","type":"cloze"};
+{"text":"The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art.  ","cloze":"Michelangelo","clozeDeleted":"The Sistine Chapel ceiling, painted by _____ between 1508 and 1512, is a cornerstone work of High Renaissance art.  ","type":"cloze"};
+{"text":"A color resulting from the mixing of two primary colors is called a secondary color.  ","cloze":"secondary","clozeDeleted":"A color resulting from the mixing of two primary colors is called a _____ color.  ","type":"cloze"};
