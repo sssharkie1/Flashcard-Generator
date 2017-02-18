@@ -17,9 +17,9 @@ inquirer.prompt([{
     message: "Shall we play a game?",
     type: "list",
     choices: [{
-        name: "No-Thanks"
-    }, {
         name: "Yes-Please"
+    }, {
+        name: "No-Thanks"
     }]
 }]).then(function(answer) {
     if (answer.playGame === "No-Thanks") {
